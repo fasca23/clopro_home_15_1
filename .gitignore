@@ -3,3 +3,4 @@ terraform.tfstate
 .terraform.lock.hcl
 .terraform
 internal_ssh_key
+terraform.tfstate.backup
